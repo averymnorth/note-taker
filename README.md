@@ -34,4 +34,4 @@ Check out the deployed app here: [Note Taker]
 
 ### Contact
 
-[Avery North on GitHub]
+[Avery North on GitHub](https://github.com/averymnorth/note-taker)
